@@ -1,6 +1,6 @@
 
 # Data Wrangling and Analysis
-## Project Steps Overview
+## Project Overview
 WeRateDogs is a Twitter account that rates people's dogs with a humorous commen about the dog.
 ### The project involves the following steps:
 
