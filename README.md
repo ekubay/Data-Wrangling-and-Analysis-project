@@ -9,7 +9,7 @@ In this section three different data are collected.
 > image-predictions.tsv
 > tweet-json.txt, is collected using weepy API based on the ID from the `twitter-archive-enhanced.csv`
 
-- **Step 2: Assessing data**
+**- Step 2: Assessing data**
 > **Summery of the Assessment** 
 
 Quality issue
