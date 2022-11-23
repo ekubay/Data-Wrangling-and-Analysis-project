@@ -6,7 +6,7 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous commen 
 In this section three different data are collected.
 **Step 1: Gathering data**
 > - twitter-archive-enhanced.csv, given file
-> - image-predictions.tsv
+> - image-predictions.tsv, downloaded [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv)
 > - tweet-json.txt, is collected using weepy API based on the ID from the `twitter-archive-enhanced.csv`
 
 **Step 2: Assessing data**
