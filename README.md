@@ -10,9 +10,10 @@ In this section three different data are collected.
 > tweet-json.txt, is collected using weepy API based on the ID from the `twitter-archive-enhanced.csv`
 
 - **Step 2: Assessing data**
-**Summery of the Assessment**
+> **Summery of the Assessment** 
+
 Quality issue
-- Twitter-archive-enhanced table
+**- Twitter-archive-enhanced table**
 > - missing value in reply_to_status_id
 > - missing value in reply_to_user_id
 > - missing value in retweeted_status_id
