@@ -38,6 +38,7 @@ Quality issue
 > - the Value in each prediction is inconsistent, some of them satrt with either capital or small letter.
 > - duplicated jpg_url, duplication should be handled
 > - the name of each prediction are not clearly understandable, should be changed
+
 **Tidiness**:
 > - archive_df: the columns doggo', 'floofer', 'pupper', 'puppo' describe dog satge, it needs to be structured
 > - the three tables should be merged to create the master data using the tweet_id
