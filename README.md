@@ -13,6 +13,7 @@ In this section three different data are collected.
 > **Summery of the Assessment** 
 
 Quality issue
+
 **- Twitter-archive-enhanced table**
 > - missing value in reply_to_status_id
 > - missing value in reply_to_user_id
@@ -29,8 +30,10 @@ Quality issue
 > - the source value is invalid data/inaccurate and needs to remove all the unneccessay symbols and characters
 > - the text value is invalid/inaccurate and needs remove the special characters and numbers and symbols
 > - some of the vlaue of columns doggo, floofer, pupper, puppo is None instead of NaN, should be replaced
+
 **- Tweet_df table**
 > - the id column name should be renamed with tweet_id for consisstency with the other datasets
+
 **- image-predictions table**
 > - the Value in each prediction is inconsistent, some of them satrt with either capital or small letter.
 > - duplicated jpg_url, duplication should be handled
