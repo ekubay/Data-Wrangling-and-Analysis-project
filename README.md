@@ -10,7 +10,7 @@ In this section three different data are collected.
 > tweet-json.txt, is collected using weepy API based on the ID from the `twitter-archive-enhanced.csv`
 
 - **Step 2: Assessing data**
-** Summery of the Assessment **
+**Summery of the Assessment**
 Quality issue
 - Twitter-archive-enhanced table
 > - missing value in reply_to_status_id
@@ -28,13 +28,13 @@ Quality issue
 > - the source value is invalid data/inaccurate and needs to remove all the unneccessay symbols and characters
 > - the text value is invalid/inaccurate and needs remove the special characters and numbers and symbols
 > - some of the vlaue of columns doggo, floofer, pupper, puppo is None instead of NaN, should be replaced
-- Tweet_df table
+**- Tweet_df table**
 > - the id column name should be renamed with tweet_id for consisstency with the other datasets
-> - image-predictions table
+**- image-predictions table**
 > - the Value in each prediction is inconsistent, some of them satrt with either capital or small letter.
 > - duplicated jpg_url, duplication should be handled
 > - the name of each prediction are not clearly understandable, should be changed
-- Tidiness:
+**Tidiness**:
 > - archive_df: the columns doggo', 'floofer', 'pupper', 'puppo' describe dog satge, it needs to be structured
 > - the three tables should be merged to create the master data using the tweet_id
 
